@@ -3,13 +3,18 @@ libft
 
 Библиотека языка Си, содержащая libc и другие полезные функции. Разработан в рамках учебной программы 42 Силиконовой долины.
 
-# Installation
+## Installation
 Clone the repository to a directory.</br>
-```https://github.com/Psigfry/libft2.git```</br>
+```
+https://github.com/Psigfry/libft2.git
+```
+</br>
 Run make to compile the library.</br>
-```cd libft && make && make clean```</br>
+```
+cd libft2 && make && make clean```
+</br>
 Это скомпилирует библиотеку libft, и вы получите файл libft.a, содержащий все перечисленные функции.
-# Libc functions descriptions
+## Libc functions descriptions
 </br>
 
 | Function | Description |
