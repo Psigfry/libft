@@ -10,8 +10,10 @@ https://github.com/Psigfry/libft2.git
 ```
 </br>
 Run make to compile the library.</br>
+
 ```
-cd libft2 && make && make clean```
+cd libft2 && make && make clean
+```
 </br>
 Это скомпилирует библиотеку libft, и вы получите файл libft.a, содержащий все перечисленные функции.
 ## Libc functions descriptions
